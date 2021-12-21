@@ -1,5 +1,4 @@
 # La-alcancia
-[TOC]
 #### Enunciado
 Se desea construir una aplicación para manejar una alcancía. La alcancía debe permitir
 guardar monedas de las siguientes denominaciones: $50, $100, $200, $500 y $1000. No se
